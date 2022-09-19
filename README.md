@@ -1,5 +1,5 @@
 
-# WeatherApp
+# blogApp
 
 Utilização de FetchAPI/ContextAPI/React-Router-Dom & demonstração do uso de hooks em React / TypeScript.
 
