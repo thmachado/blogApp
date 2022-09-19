@@ -17,7 +17,7 @@ export type ImageType = {
 export interface InternProps {
 	content: {
 		rendered: string
-	}
+	},
 	slug: string,
 	title: {
 		rendered: string
